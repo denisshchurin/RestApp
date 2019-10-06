@@ -12,7 +12,7 @@ import javax.persistence.MappedSuperclass;
 /**
  * Base class with property ID.
  *
- * @author Eugene Suleimanov
+ * @author Denis Shchurin
  * @version 1.0
  */
 @MappedSuperclass
